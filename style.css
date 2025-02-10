@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: url(milkyway.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 42px;
+    border-radius: 8px;
+}
+
+#home {
+    text-align: center;
+    color: rgb(251, 251, 251);
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
